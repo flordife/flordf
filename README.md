@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JAVA, MySql, Maven, Hibernate, JPA, API Rest at ADA ITW**
 
-- 💬 About me **I am a proactive and collaborative person with a great sense of humor**
+- 💬 About me: **I am a proactive and collaborative person with a great sense of humor**
 
 - 📫 How to reach me **flor.difelice@gmail.com**
 
