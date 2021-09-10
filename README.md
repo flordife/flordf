@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Florencia Di Felice</h1>
+<h1 align="center">Hi 👋, I'm Flor</h1>
 <h3 align="center">A JAVA Backender Jr. from Buenos Aires</h3>
 
 - 🌱 I’m currently learning **JAVA, MySql, Maven, Hibernate, JPA, API Rest at ADA ITW**
