@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Flor</h1>
-<h3 align="center">A JAVA Backender Jr. from Buenos Aires</h3>
+<h1 align="center">Hola 👋, Soy Flor</h1>
+<h3 align="center">JAVA Backend Develop Jr</h3>
 
-- 🌱 I’m currently learning **JAVA, MySql, Maven, Hibernate, JPA, API Rest at ADA ITW**
+- 🌱 Actualmente me encuentro estudiando en ADA ITW: **JAVA, MySql, Maven, Hibernate, JPA, API Rest at ADA ITW**
 
-- 💬 About me **I am a proactive and collaborative person with a great sense of humor**
+- 💬 Sobre mi: **Soy una persona proactiva y colaborativa, con un gran sentido de la responsabilidad y compromiso.**
 
-- 📫 How to reach me **flor.difelice@gmail.com**
+- 📫 Cómo contactarme: **flor.difelice@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,3 +14,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flordife&show_icons=true&locale=en" alt="flordife" /></p>
